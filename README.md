@@ -33,7 +33,7 @@ const data = 'Sample data to cipher';
 const cipheredData = cipherFuncs.cipher(data);
 
 // Decipher data
-const plainData = cipherFuncs.cipher(cipherdData);
+const plainData = cipherFuncs.decipher(cipherdData);
 ```
 
 ## License
