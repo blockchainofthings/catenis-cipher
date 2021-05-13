@@ -1,6 +1,6 @@
 {
   "name": "catenis-cipher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node.js module used to generate functions used by Catenis to cipher and decipher data.",
   "main": "index.js",
   "scripts": {
