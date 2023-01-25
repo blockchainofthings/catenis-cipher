@@ -38,6 +38,6 @@ const plainData = cipherFuncs.decipher(cipherdData);
 
 ## License
 
-This project is for Blockchain of Things' internal use only.
+This software is released under the [MIT License](LICENSE). Feel free to fork, and modify!
 
-Copyright © 2020, Blockchain of Things Inc.
+Copyright © 2020-2023, Blockchain of Things Inc.
