@@ -5,7 +5,7 @@ Node.js module used to generate functions used by Catenis to cipher and decipher
 ## Installation
 
 ```shell
-npm install git+ssh://git@bitbucket.org:blockchainofthings/catenis-cipher.git
+npm install git+ssh://git@github.com:blockchainofthings/catenis-cipher.git
 ```
 
 ## Usage

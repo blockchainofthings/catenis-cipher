@@ -27,5 +27,5 @@
     "mocha": "^8.4.0",
     "nyc": "^15.1.0"
   },
-  "repository": "git@bitbucket.org:blockchainofthings/catenis-cipher.git"
+  "repository": "git@github.com:blockchainofthings/catenis-cipher.git"
 }
